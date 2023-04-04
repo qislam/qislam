@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qislam
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning pythin
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on salesforce
 - 📫 How to reach me ...
 
